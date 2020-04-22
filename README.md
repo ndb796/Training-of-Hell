@@ -26,6 +26,6 @@
 |운동|NA|NA|NA|**Success**||||
 |금욕|NA|NA|NA|**Success**||||
 |논문|NA|NA|NA|**Success**||||
-|연구|NA|NA|NA|In progress||||
-|대회|NA|NA|NA|In progress||||
-|영어|NA|NA|NA|In progress||||
+|연구|NA|NA|NA|**Success**||||
+|대회|NA|NA|NA|**Success**||||
+|영어|NA|NA|NA|**Success**||||

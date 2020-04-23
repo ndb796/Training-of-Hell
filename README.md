@@ -23,9 +23,9 @@
 
 ||2020-04-19|2020-04-20|2020-04-21|2020-04-22|2020-04-23|2020-04-24|2020-04-25|
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-|운동|NA|NA|NA|**Success**|In progress|||
+|운동|NA|NA|NA|**Success**|**Success**|||
 |금욕|NA|NA|NA|**Success**|**Success**|||
 |논문|NA|NA|NA|**Success**|**Success**|||
 |연구|NA|NA|NA|**Success**|**Success**|||
 |대회|NA|NA|NA|**Success**|**Success**|||
-|영어|NA|NA|NA|**Success**|In progress|||
+|영어|NA|NA|NA|**Success**|**Success**|||

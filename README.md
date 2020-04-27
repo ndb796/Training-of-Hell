@@ -39,9 +39,9 @@
 
 ||2020-04-16|2020-04-27|2020-04-28|2020-04-29|2020-04-30|2020-05-01|2020-05-02|
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-|운동|**Success**|In progress||||||
-|금욕|**Success**|**Success**||||||
-|논문|**Success**|**Success**||||||
-|연구|**Success**|In progress||||||
-|대회|**Success**|In progress||||||
-|영어|**Success**|**Success**||||||
+|운동|**Success**|**Success**|**Success**|||||
+|금욕|**Success**|**Success**|**Success**|||||
+|논문|**Success**|**Success**|In progress|||||
+|연구|**Success**|**Success**|In progress|||||
+|대회|**Success**|**Success**|In progress|||||
+|영어|**Success**|**Success**|In progress|||||

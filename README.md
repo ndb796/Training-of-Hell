@@ -41,7 +41,7 @@
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 |운동|**Success**|**Success**|**Success**|||||
 |금욕|**Success**|**Success**|**Success**|||||
-|논문|**Success**|**Success**|In progress|||||
+|논문|**Success**|**Success**|**Success**|||||
 |연구|**Success**|**Success**|In progress|||||
-|대회|**Success**|**Success**|In progress|||||
+|대회|**Success**|**Success**|**Success**|||||
 |영어|**Success**|**Success**|In progress|||||

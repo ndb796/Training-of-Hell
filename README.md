@@ -37,11 +37,28 @@
 
 #### 2주차
 
-||2020-04-16|2020-04-27|2020-04-28|2020-04-29|2020-04-30|2020-05-01|2020-05-02|
+||2020-04-26|2020-04-27|2020-04-28|2020-04-29|2020-04-30|2020-05-01|2020-05-02|
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-|운동|**Success**|**Success**|**Success**|**Success**|**Success**|**Success**||
-|금욕|**Success**|**Success**|**Success**|**Success**|**Success**|**Success**||
-|논문|**Success**|**Success**|**Success**|**Success**|**Success**|**Success**||
-|연구|**Success**|**Success**|**Success**|**Success**|**Success**|**Success**||
-|대회|**Success**|**Success**|**Success**|**Success**|**Success**|**Success**||
-|영어|**Success**|**Success**|**Success**|**Success**|**Success**|**Success**||
+|운동|**Success**|**Success**|**Success**|**Success**|**Success**|**Success**|**Success**|
+|금욕|**Success**|**Success**|**Success**|**Success**|**Success**|**Success**|**Success**|
+|논문|**Success**|**Success**|**Success**|**Success**|**Success**|**Success**|**Fail**|
+|연구|**Success**|**Success**|**Success**|**Success**|**Success**|**Success**|**Fail**|
+|대회|**Success**|**Success**|**Success**|**Success**|**Success**|**Success**|**Success**|
+|영어|**Success**|**Success**|**Success**|**Success**|**Success**|**Success**|**Success**|
+
+* <b>회고</b>
+  * <b>운동</b>을 할 때 웨이트 트레이닝도 해주고 있는데, 매일매일 쉬지 않고 하니까 오히려 몸이 삐그덕 거린다.
+  * 일단 매일 하기로 했으니까 쉴 수는 없고, 매일 수면 시간을 8시간 이상으로 유지해야 버틸 수 있다.
+  * 금욕은 정말 간신히 지키고 있는데, 음란한 생각조차 하면 안 된다. 그냥 생각 자체를 안 해야 한다.
+  * 주말에 자꾸 풀어지는 경향이 있다. 다음 주말엔 더 개선된 모습을 보이자.
+
+#### 3주차
+
+||2020-05-03|2020-05-04|2020-05-05|2020-05-06|2020-05-07|2020-05-08|2020-05-09|
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|운동|**Success**|||||||
+|금욕|**Success**|||||||
+|논문|**Success**|||||||
+|연구|**Success**|||||||
+|대회|**Fail**|||||||
+|영어|**Fail**|||||||

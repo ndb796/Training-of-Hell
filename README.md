@@ -62,3 +62,7 @@
 |연구|**Success**|**Fail**|**Success**|**Fail**|**Fail**|**Fail**||
 |대회|**Fail**|**Success**|**Success**|**Success**|**Fail**|**Fail**||
 |영어|**Fail**|**Success**|**Success**|**Success**|**Fail**|**Fail**||
+
+* <b>회고</b>
+  * 시험 기간에는, 도저히 수행할 수 없다고 판단했다. 하지만 이건 미리 준비하지 못한 잘못이다.
+  * 이번 주는 패배의 한 주였다. 다시 재정비하자.

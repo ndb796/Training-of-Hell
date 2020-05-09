@@ -56,9 +56,9 @@
 
 ||2020-05-03|2020-05-04|2020-05-05|2020-05-06|2020-05-07|2020-05-08|2020-05-09|
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-|운동|**Success**|**Success**|**Success**|||||
-|금욕|**Success**|**Success**|**Success**|||||
-|논문|**Success**|**Success**|**Success**|||||
-|연구|**Success**|**Fail**|**Success**|||||
-|대회|**Fail**|**Success**|**Success**|||||
-|영어|**Fail**|**Success**|**Success**|||||
+|운동|**Success**|**Success**|**Success**|**Success**|**Fail**|**Fail**||
+|금욕|**Success**|**Success**|**Success**|**Success**|**Fail**|**Fail**||
+|논문|**Success**|**Success**|**Success**|**Success**|**Fail**|**Fail**||
+|연구|**Success**|**Fail**|**Success**|**Fail**|**Fail**|**Fail**||
+|대회|**Fail**|**Success**|**Success**|**Success**|**Fail**|**Fail**||
+|영어|**Fail**|**Success**|**Success**|**Success**|**Fail**|**Fail**||
